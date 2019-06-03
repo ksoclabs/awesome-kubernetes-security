@@ -4,6 +4,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [Falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
+- [GKE Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins) - GKE Security Bulletins and Advisories 
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practics
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
@@ -18,5 +19,5 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [rback](https://github.com/mhausenblas/rback) - RBAC in Kubernetes visualizer
   
 ### Twitter Accounts
-- [learnk8s](https://twitter.com/learnk8s) - learnk8s Twitter feed
 - [Ian Coldwater](https://twitter.com/iancoldwater) - Ian Coldwater: K8s breaker
+- [learnk8s](https://twitter.com/learnk8s) - learnk8s Twitter feed
