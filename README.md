@@ -16,7 +16,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole) - Find Kubernetes roles bound to a specified ServiceAccount, Group or User
 - [kubectl-dig](https://github.com/sysdiglabs/kubectl-dig) - Deep Kubernetes visibility from the kubectl
 - [kubectl-kubesec](https://github.com/stefanprodan/kubectl-kubesec) - Scan Kubernetes pods, deployments, daemonsets and statefulsets with kubesec.io
-- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\>\ \<resource\> in Kubernetes
+- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\> \<resource\> in Kubernetes
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
 - [rback](https://github.com/mhausenblas/rback) - RBAC in Kubernetes visualizer
 
