@@ -19,7 +19,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\> \<resource\> in Kubernetes
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
-- [rback](https://github.com/mhausenblas/rback) - RBAC in Kubernetes visualizer
+- [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
 
