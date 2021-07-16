@@ -28,9 +28,11 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
 - [Kubernetes Security](https://kubernetes-security.info/)
 - [GKE Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins)
+- [CKS Certified Kubernetes Security Specialist resources repo](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 
 ## Twitter Accounts
 
+- [Andrew Martin](https://twitter.com/sublimino)
 - [Ann N Wallace](https://twitter.com/annnwallace)
 - [Annabelle Bertucio](https://twitter.com/WhyHiAnnabelle)
 - [Brad Geessaman](https://twitter.com/bradgeesaman)
