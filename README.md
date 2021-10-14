@@ -29,6 +29,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Kubernetes Security](https://kubernetes-security.info/)
 - [GKE Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins)
 - [CKS Certified Kubernetes Security Specialist resources repo](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
+- [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 
 ## Twitter Accounts
 
