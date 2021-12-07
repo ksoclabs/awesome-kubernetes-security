@@ -32,6 +32,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [GKE Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins)
 - [CKS Certified Kubernetes Security Specialist resources repo](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
+- [OWASP Kubernetes Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
 - [Securing Kubernetes Clusters](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
 
 ## Twitter Accounts
