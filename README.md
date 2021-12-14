@@ -29,6 +29,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
+- [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM
 
 ## General Resources
 
