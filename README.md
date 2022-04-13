@@ -30,7 +30,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM
-
+- [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 ## General Resources
 
 - [Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
