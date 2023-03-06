@@ -43,6 +43,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 - [OWASP Kubernetes Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
 - [Securing Kubernetes Clusters](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+- [Kubernetes Security : 6 Best Practices for 4C Security Model](https://spacelift.io/blog/kubernetes-security)
 
 ## Twitter Accounts
 
