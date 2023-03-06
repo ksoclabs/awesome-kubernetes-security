@@ -8,6 +8,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 - [falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
+- [kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practics
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
