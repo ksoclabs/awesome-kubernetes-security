@@ -25,6 +25,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [OWASP Top Ten for Kubernetes](https://owasp.org/www-project-kubernetes-top-ten/) -  The Top Ten is a prioritized list of these risks backed by data collected from organizations varying in maturity and complexity
 - [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
+- [netchecks](https://github.com/hardbyte/netchecks/) - Tool to validate assumptions about the network
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
