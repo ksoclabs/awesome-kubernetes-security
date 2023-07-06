@@ -10,6 +10,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 - [cnspec](https://cnspec.io) - Scan Kubernetes clusters, containers, and manifest files for vulnerabilities and misconfigurations
 - [falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
+- [KBOM](https://github.com/ksoclabs/kbom) - Kubernetes Bill of Materials Toolkit
 - [kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practics
@@ -31,6 +32,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [netchecks](https://github.com/hardbyte/netchecks/) - Tool to validate assumptions about the network
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
+- [red-kube](https://github.com/lightspin-tech/red-kube) - K8S Adversary Emulation Based on kubectl
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
 - [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) - Use SQL to query your Kubernetes resources
 - [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.
