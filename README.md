@@ -6,13 +6,18 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 - [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) -  Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
+- [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
+- [cnspec](https://cnspec.io) - Scan Kubernetes clusters, containers, and manifest files for vulnerabilities and misconfigurations
 - [falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
+- [kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practics
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - Help building an adaptive and fine-grained pod security policy
 - [kube-scan](https://github.com/octarinesec/kube-scan) - k8s cluster risk assessment tool
+- [kubescape](https://github.com/kubescape/kubescape) - k8s risk analysis, security compliance, and misconfiguration scanning.
+- [kubelight - WIP but promising](https://github.com/OWASP/KubeLight) - OWASP project to scan your Kubernetes Cluster for Security & Compliance.
 - [Kubei](https://github.com/Portshift/kubei) - Vulnerabilities scanner for Kubernetes clusters
 - [kube2iam](https://github.com/jtblin/kube2iam) - Provide different AWS IAM roles for pods running on Kubernetes
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - Audit your Kubernetes clusters against common security controls
@@ -20,6 +25,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubectl-dig](https://github.com/sysdiglabs/kubectl-dig) - Deep Kubernetes visibility from the kubectl
 - [kubectl-kubesec](https://github.com/stefanprodan/kubectl-kubesec) - Scan Kubernetes pods, deployments, daemonsets and statefulsets with kubesec.io
 - [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\> \<resource\> in Kubernetes
+- [OWASP Top Ten for Kubernetes](https://owasp.org/www-project-kubernetes-top-ten/) -  The Top Ten is a prioritized list of these risks backed by data collected from organizations varying in maturity and complexity
 - [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
@@ -28,9 +34,11 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) - Use SQL to query your Kubernetes resources
 - [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+- [trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM
-- [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
+- [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow
+
 ## General Resources
 
 - [Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
@@ -40,6 +48,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
 - [OWASP Kubernetes Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
 - [Securing Kubernetes Clusters](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+- [Kubernetes Security : 6 Best Practices for 4C Security Model](https://spacelift.io/blog/kubernetes-security)
 
 ## Twitter Accounts
 
