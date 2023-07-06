@@ -15,6 +15,8 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - Help building an adaptive and fine-grained pod security policy
 - [kube-scan](https://github.com/octarinesec/kube-scan) - k8s cluster risk assessment tool
+- [kubescape](https://github.com/kubescape/kubescape) - k8s risk analysis, security compliance, and misconfiguration scanning.
+- [kubelight - WIP but promising](https://github.com/OWASP/KubeLight) - OWASP project to scan your Kubernetes Cluster for Security & Compliance.
 - [Kubei](https://github.com/Portshift/kubei) - Vulnerabilities scanner for Kubernetes clusters
 - [kube2iam](https://github.com/jtblin/kube2iam) - Provide different AWS IAM roles for pods running on Kubernetes
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - Audit your Kubernetes clusters against common security controls
