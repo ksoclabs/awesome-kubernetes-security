@@ -25,7 +25,8 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole) - Find Kubernetes roles bound to a specified ServiceAccount, Group or User
 - [kubectl-dig](https://github.com/sysdiglabs/kubectl-dig) - Deep Kubernetes visibility from the kubectl
 - [kubectl-kubesec](https://github.com/stefanprodan/kubectl-kubesec) - Scan Kubernetes pods, deployments, daemonsets and statefulsets with kubesec.io
-- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\> \<resource\> in Kubernetes
+- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to <verb> <resource> in Kubernetes
+- [KubeQ](https://kubeq.click) - Instantly validate, score, and audit Kubernetes manifests in your browser. Powered by kubeval, kube-score, and kubeaudit for schema validation, best practices, and security checks.
 - [OWASP Top Ten for Kubernetes](https://owasp.org/www-project-kubernetes-top-ten/) -  The Top Ten is a prioritized list of these risks backed by data collected from organizations varying in maturity and complexity
 - [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
