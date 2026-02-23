@@ -32,6 +32,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [netchecks](https://github.com/hardbyte/netchecks/) - Tool to validate assumptions about the network
 - [rakkess](https://github.com/corneliusweig/rakkess) - Review access matrix for Kubernetes server resources
 - [rback](https://github.com/team-soteria/rback) - RBAC in Kubernetes visualizer
+- [segspec](https://github.com/dormstern/segspec) - Extract network dependencies from app configs and generate Kubernetes NetworkPolicies with evidence tracing
 - [red-kube](https://github.com/lightspin-tech/red-kube) - K8S Adversary Emulation Based on kubectl
 - [steampipe](https://github.com/turbot/steampipe) - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
 - [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) - Use SQL to query your Kubernetes resources
