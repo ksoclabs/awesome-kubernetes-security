@@ -6,6 +6,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 - [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) -  Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
+- [Audit Radar](https://github.com/vsenatorov/auditvision) - Real-time audit log explorer for OpenShift and Kubernetes with AI risk scoring, login tracking, and webhook alerts
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 - [cnspec](https://cnspec.io) - Scan Kubernetes clusters, containers, and manifest files for vulnerabilities and misconfigurations
