@@ -8,6 +8,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
+- [Defensia](https://github.com/defensia/agent) - WAF, intrusion detection, and automated IP blocking for Kubernetes nodes and Linux servers. Deploys as a DaemonSet via Helm
 - [cnspec](https://cnspec.io) - Scan Kubernetes clusters, containers, and manifest files for vulnerabilities and misconfigurations
 - [falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
 - [KBOM](https://github.com/ksoclabs/kbom) - Kubernetes Bill of Materials Toolkit
