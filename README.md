@@ -41,6 +41,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow
+- [vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just CVSS. Takes a Trivy or Grype scan and scores each CVE based on your system's actual context
 
 ## General Resources
 
