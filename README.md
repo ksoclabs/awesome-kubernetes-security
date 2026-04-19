@@ -5,6 +5,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 ## Open Source Projects
 
 - [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) -  Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
@@ -26,6 +27,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubectl-dig](https://github.com/sysdiglabs/kubectl-dig) - Deep Kubernetes visibility from the kubectl
 - [kubectl-kubesec](https://github.com/stefanprodan/kubectl-kubesec) - Scan Kubernetes pods, deployments, daemonsets and statefulsets with kubesec.io
 - [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has permissions to \<verb\> \<resource\> in Kubernetes
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [OWASP Top Ten for Kubernetes](https://owasp.org/www-project-kubernetes-top-ten/) -  The Top Ten is a prioritized list of these risks backed by data collected from organizations varying in maturity and complexity
 - [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
 - [kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management
