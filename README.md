@@ -41,6 +41,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with unified security visibility across hybrid and edge clusters; integrates Falco, Kyverno, OPA/Gatekeeper, and Trivy across clusters. CNCF Sandbox project (Apache 2.0).
 
 ## General Resources
 
