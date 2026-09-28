@@ -10,6 +10,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 - [cnspec](https://cnspec.io) - Scan Kubernetes clusters, containers, and manifest files for vulnerabilities and misconfigurations
 - [falco](https://github.com/falcosecurity/falco) - Container Native Runtime Security
+- [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [KBOM](https://github.com/ksoclabs/kbom) - Kubernetes Bill of Materials Toolkit
 - [kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
